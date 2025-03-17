@@ -5,6 +5,7 @@
 - [Tools](#tools)
 - [Questions](#questions-for-data-analysis)
 - [Dashboard](#dashboard)
+- [Results](#results-and-findings)
   
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2017 to team of creative directors of Apple TV. 
