@@ -19,4 +19,9 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 2. Which top 5 actors were the most successful?
 3. Top 5 movies by box and Budget?
 4. Seasonality?
+### Dashboard
+
+
 ### Results and Findings
+One of the findings that i notised from the dashboards was:
+- Best profitable movie was "The Davil Inside" with Budget of 1,000,000 USD. Box Office Revenue was 102,000,000 USD. The genre of this movie was horror . 
