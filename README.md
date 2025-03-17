@@ -33,6 +33,7 @@ Movie Data : The primary dataset used for this analysis is the "Movies Data Read
 One of the findings that i notised from the dashboards was:
 - Best profitable movie in these years 2012-2017 was "The Davil Inside" with Budget of 1,000,000 USD that brought to Box Office Revenue of 102,000,000 USD. The genre of this movie was Horror . 
 
-![Screenshot 2025-03-17 071331](https://github.com/user-attachments/assets/265e9d47-6bd6-4b37-9e94-06488b7f8d
+![Screenshot 2025-03-17 071331](https://github.com/user-attachments/assets/f12000ef-0c60-459e-9b06-da3e02cc2c06)
+
 
 
