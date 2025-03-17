@@ -3,6 +3,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
+- [Data Cleaning](#data-cleaning-and-preparation)
 - [Questions](#questions-for-data-analysis)
 - [Dashboard](#dashboard)
 - [Results](#results-and-findings)
