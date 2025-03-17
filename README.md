@@ -1,6 +1,7 @@
 # Project Movie Dashboard
 ## Table of Content
 - [Tools](#tools)
+- [Dashboard](#dashboard)
   
  
 
