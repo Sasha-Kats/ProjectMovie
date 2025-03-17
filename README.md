@@ -1,14 +1,12 @@
 # Project Movie Dashboard
 ## Table of Content
+- [Project Overview](#project-overview)
 - [Tools](#tools)
 - [Questions](#questions-for-data-analysis)
 - [Dashboard](#dashboard)
-- 
   
- 
-
 ### Project Overview
-This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016 to team of creative directorsof Apple TV. 
+This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2017 to team of creative directors of Apple TV. 
 By analyzing various aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 ### Data Source
 Movie Data : The primary dataset used for this analysis is the "Movies Data Ready for Dashboard.xlsx" file, containing detailed information about each movie's performance (box office and budget), actors, directors etc.
@@ -32,8 +30,8 @@ Movie Data : The primary dataset used for this analysis is the "Movies Data Read
 
 ### Results and Findings
 One of the findings that i notised from the dashboards was:
-- Best profitable movie in these years 2012-2017 was "The Davil Inside" with Budget of 1,000,000 USD  Box Office Revenue was 102,000,000 USD. The genre of this movie was horror . 
+- Best profitable movie in these years 2012-2017 was "The Davil Inside" with Budget of 1,000,000 USD that brought to Box Office Revenue of 102,000,000 USD. The genre of this movie was Horror . 
 
-![Screenshot 2025-03-17 071331](https://github.com/user-attachments/assets/265e9d47-6bd6-4b37-9e94-06488b7f8da1)
-### Challenges in Analysis
-```
+![Screenshot 2025-03-17 071331](https://github.com/user-attachments/assets/265e9d47-6bd6-4b37-9e94-06488b7f8d
+
+
