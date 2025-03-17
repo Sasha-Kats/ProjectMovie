@@ -1,6 +1,7 @@
 # Project Movie Dashboard
 ## Table of Content
 - [Project Overview](#project-overview)
+- [Data Source](#data-source)
 - [Tools](#tools)
 - [Questions](#questions-for-data-analysis)
 - [Dashboard](#dashboard)
