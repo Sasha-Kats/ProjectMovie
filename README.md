@@ -1,7 +1,8 @@
 # Project Movie Dashboard
 ## Table of Content
 - [Tools](#tools)
-- [Dashboard](#dashboard)
+  
+ 
 
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016 to team of creative directorsof Apple TV. 
